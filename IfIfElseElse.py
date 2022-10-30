@@ -15,6 +15,6 @@ elif (nilai >= 70 and nilai < 80):
 elif (nilai >= 60 and nilai < 70):
     print(f'Nilai {nilai} mendapatkan D')    
 elif (nilai < 60 ):
-    print(f'Nilai {nilai} mendapatkan F')
+    print(f'Nilai {nilai} mendapatkan E')
 else:
     print(f'Nilai {nilai} Tidak dalam Rentang')
